@@ -6,7 +6,7 @@ const deleteButton = document.querySelector("#delete-btn");
 
 let userText = null;
 // API key should be kept secure on the server-side
-const API_KEY = "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";
+const API_KEY = "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";
 
 const loadDataFromLocalstorage = () => {
     const themeColor = localStorage.getItem("themeColor");
